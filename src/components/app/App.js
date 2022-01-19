@@ -17,7 +17,7 @@ const App = () =>{
           <Calculator/>
           <Footer/>
           <div class="app">
-            <p>old commit</p>
+            <p>old commit2</p>
           </div>
       </div>
   );
